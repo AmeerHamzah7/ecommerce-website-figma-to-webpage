@@ -2,20 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@font-face {
+    font-family: 'Integralcfbold';
+    src: url('/fonts/integralcf-bold.woff') format('woff');
+    font-weight: 700; /* Bold weight */
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+@font-face {
+    font-family: 'integralcfregular';
+    src: url('/fonts/integralcf-regular.woff') format('woff');
+    font-weight: 400; /* Regular weight */
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+@font-face {
+    font-family: 'SatoshiRegular';
+    src: url('/fonts/Satoshi-Regular.woff') format('woff');
+    font-weight: 400;
+}
+
+body{
+    font-family: 'SatoshiRegular', sans-serif;
 }

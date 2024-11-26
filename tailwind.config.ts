@@ -12,6 +12,11 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        integralBold: ['Integralcfbold', 'sans-serif'],
+        integralRegular: ['Integralcfregular', 'sans-serif'],
+        SatoshiRegular: ['SatoshiRegular', 'sans-serif'],
+      },
     },
   },
   plugins: [],
