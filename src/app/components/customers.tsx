@@ -19,7 +19,7 @@ const Customers = () => {
                             <Image src={verified} alt="verified"></Image>
                         </div>
 
-                        <p className="w-[310px] md:w-[336px] h-[80px] md:h-[88px] font-normal text-[14px] md:text-[16px] leading-[20px] md:leading-[22px] text-black text-opacity-60">"I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations.”</p>
+                        <p className="w-[310px] md:w-[336px] h-[80px] md:h-[88px] font-normal text-[14px] md:text-[16px] leading-[20px] md:leading-[22px] text-black text-opacity-60">&quot;I&apos;m blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I&apos;ve bought has exceeded my expectations.&rdquo;</p>
                     </div>
                 </div>
             </div>
@@ -36,7 +36,7 @@ const Customers = () => {
                             <Image src={verified} alt="verified"></Image>
                         </div>
 
-                        <p className="w-[336px] h-[88px] font-normal text-[16px] leading-[22px] text-black text-opacity-60">"I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations.”</p>
+                        <p className="w-[336px] h-[88px] font-normal text-[16px] leading-[22px] text-black text-opacity-60">&quot;I&apos;m blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I&apos;ve bought has exceeded my expectations.&rdquo;</p>
                     </div>
                 </div>
             </div>
@@ -53,7 +53,7 @@ const Customers = () => {
                             <Image src={verified} alt="verified"></Image>
                         </div>
 
-                        <p className="w-[336px] h-[88px] font-normal text-[16px] leading-[22px] text-black text-opacity-60">"I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations.”</p>
+                        <p className="w-[336px] h-[88px] font-normal text-[16px] leading-[22px] text-black text-opacity-60">&quot;I&apos;m blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I&apos;ve bought has exceeded my expectations.&rdquo;</p>
                     </div>
                 </div>
             </div>
